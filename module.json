@@ -1,0 +1,29 @@
+{
+  "name": "rme",
+  "title": "Revised Martial Equipment",
+  "description": "revised-martial-equipment",
+  "version": "1.0.0",
+  "manifest": "https://github.com/caiogvicentin/revised_martial_equipment/releases/latest/download/module.json",
+  "download": "https://github.com/caiogvicentin/revised_martial_equipment/releases/download/1.0.0/module.zip",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "packs": [
+    {
+      "name": "revised-items",
+      "label": "Revised Items",
+      "path": "packs/revised-items.db",
+      "type": "Item",
+      "system": "dnd5e"
+    },
+    {
+      "name": "revised-armors",
+      "label": "Revised Armors",
+      "path": "packs/revised-armors.db",
+      "type": "Item",
+      "system": "dnd5e"
+    }
+  ]
+}
+
