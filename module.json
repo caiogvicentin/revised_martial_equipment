@@ -3,7 +3,7 @@
   "title": "Revised Martial Equipment",
   "description": "revised-martial-equipment",
   "version": "1.0.1",
-  "manifest": "https://github.com/caiogvicentin/revised_martial_equipment/releases/latest/download/module.json",
+  "manifest": "https://raw.githubusercontent.com/caiogvicentin/revised_martial_equipment/refs/heads/main/module.json",
   "download": "https://github.com/caiogvicentin/revised_martial_equipment/releases/download/1.0.1/module.zip",
   "compatibility": {
     "minimum": "12",
