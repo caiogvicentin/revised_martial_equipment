@@ -2,9 +2,9 @@
   "name": "rme",
   "title": "Revised Martial Equipment",
   "description": "revised-martial-equipment",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "manifest": "https://raw.githubusercontent.com/caiogvicentin/revised_martial_equipment/main/module.json",
-  "download": "https://github.com/caiogvicentin/revised_martial_equipment/archive/refs/tags/1.0.1.zip",
+  "download": "https://github.com/caiogvicentin/revised_martial_equipment/archive/refs/tags/1.0.2.zip",
   "compatibility": {
     "minimum": "12",
     "verified": "13"
